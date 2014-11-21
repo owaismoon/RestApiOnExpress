@@ -1,0 +1,18 @@
+{
+  "name": "RestApiOnExpress",
+  "version": "0.0.1",
+  "description": "practice rest api on express server",
+  "main": "server.js",
+  "author": {
+    "name": "Owais Raza",
+    "email": "owaismoon92@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OwaisMoon/RestApiOnExpress"
+  },
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.2"
+  }
+}
